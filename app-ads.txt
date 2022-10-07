@@ -1,7 +1,9 @@
 google.com, pub-9724255327554994, DIRECT, f08c47fec0942fa0
+
 #Geniee
-geniee.co.jp, 22784847601, DIRECT
+google.com, pub-7945044863874787, DIRECT, f08c47fec0942fa0
 google.com, pub-7945044863874787, RESELLER, f08c47fec0942fa0
+
 #OB
 rubiconproject.com, 21582, RESELLER, 0bfd66d529a55807
 pubmatic.com, 160803, RESELLER, 5d62403b186f2ace
